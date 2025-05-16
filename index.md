@@ -1,6 +1,6 @@
 # Pikes Peak SBD Links
 ## Live timing
-[https://cf.derby.rr1.us/](https://cf.derby.rr1.us/)
+[https://go.rr1.us/#/eventSelection](https://go.rr1.us/#/eventSelection)
 
 Go to 'AASBD CO: Colorado Springs' -> '2024 PPSBD Local'
 
