@@ -1,8 +1,8 @@
 # Pikes Peak SBD Links
 ## Live timing
-[https://go.rr1.us/#/eventSelection](https://go.rr1.us/#/eventSelection)
+[https://go.rr1.us/#/orgSelection](https://go.rr1.us/#/orgSelection)
 
-Go to 'AASBD CO: Colorado Springs' -> '2024 PPSBD Local'
+Go to 'AASBD CO: Colorado Springs' -> '2025 PPSBD Local'
 
 If you are on the wrong race, use the menu in the top right, then select 'Watch a different race'
 
